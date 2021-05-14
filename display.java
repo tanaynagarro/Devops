@@ -6,6 +6,7 @@ public class display {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is a jenkin project");
+		System.out.println("Display ");
 	}
 
 }
